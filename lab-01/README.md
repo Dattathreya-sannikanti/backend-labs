@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express server
-Venkata Datthathreya Sannikanti · [Your Registration Number] · CSE
-Live link: Not applicable (Executed locally for this lab)
+Venkata Dattathreya Sannikanti · [252U1R1226] · CSE-1E
+Live link: (https://dattathreya-lab-01.onrender.com/)
 
 ## How to run
 1. Install dependencies: npm install
