@@ -57,6 +57,8 @@ app.post('/register/', async (req, res) => {
     });
 });
 
+app.get('/', (req, res) => res.send('Lab 4 API is running!'));
+
 // 3. Login Endpoint
 app.post('/login/', (req, res) => {
     const { username, password } = req.body;
