@@ -1,7 +1,7 @@
 # Lab 4: Registration, login and JWT
 **Name:** Sannikanti Venkata Datthathreya  
 **Registration number:** 252U1R1226  
-**Section:** [Enter your section here]  
+**Section:** CSE-2E 
 
 **Live link:** https://lab-04-r49k.onrender.com
 
